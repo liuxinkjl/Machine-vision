@@ -1,0 +1,40 @@
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.exe.config
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.exe
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.pdb
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion_Camera.Homepage.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion_Camera.Properties.Resources.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.csproj.GenerateResource.Cache
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.exe
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.pdb
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.exe.config
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.exe
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.pdb
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.exe
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.pdb
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.csprojResolveAssemblyReference.cache
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion_Camera.Homepage.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion_Camera.Properties.Resources.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera12.15\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.csproj.GenerateResource.Cache
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.exe.config
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.exe
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.pdb
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.exe
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\bin\x64\Debug\Gige_Vidion Camera.pdb
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.csprojResolveAssemblyReference.cache
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion_Camera.Homepage.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion_Camera.Properties.Resources.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+D:\项目文件\塑料管检测开发\Gige_Vidion Camera（18.12.15）\Gige_Vidion Camera\obj\x64\Debug\Gige_Vidion Camera.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\bin\Debug\Gige_Vidion Camera.exe.config
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\Debug\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\Debug\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\Debug\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\Debug\Gige_Vidion_Camera.Properties.Resources.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\Debug\Gige_Vidion Camera.csproj.GenerateResource.Cache
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\Debug\Gige_Vidion_Camera.Homepage.resources
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\bin\Debug\Gige_Vidion Camera.exe
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\bin\Debug\Gige_Vidion Camera.pdb
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\Debug\Gige_Vidion Camera.exe
+D:\VS2013_project\Gige_Vidion Camera\Gige_Vidion Camera\obj\Debug\Gige_Vidion Camera.pdb
